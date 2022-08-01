@@ -1,6 +1,6 @@
 # PresetWindowsTerminalTool
 Launch windows already populated with tabs from the terminal. Create different groups of windows (e.g. work- prepopulate with work links)
-This is a productivity tool.  
+This is a productivity tool. Link the window function to your bashrc or bash or profile file which executes when a terminal starts up.  
 
 **Example Uses**  
 
